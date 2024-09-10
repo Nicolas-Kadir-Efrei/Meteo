@@ -1,0 +1,33 @@
+body{
+    background: rgb(51,239,246);
+    background: linear-gradient(106deg, rgba(51,239,246,1) 0%, rgba(231,212,115,1) 30%, rgba(231,212,115,1) 70%, rgba(51,239,246,1) 100%);
+    font-family: cursive;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    font-size: 45px;
+}
+
+input{
+    background: rgb(231,212,115);
+    background: linear-gradient(106deg, rgba(231,212,115,1) 0%, rgba(231,212,115,1) 100%);
+    font-family: cursive;
+    color: white;
+    outline-color:rgb(231,212,115);
+    border-color: rgb(231,212,115);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+button{
+    background: rgb(231,212,115);
+    background: linear-gradient(106deg, rgba(231,212,115,1) 0%, rgba(231,212,115,1) 100%);
+    font-family: cursive;
+    color: white;
+    outline-color:rgb(231,212,115);
+    border-color: rgb(231,212,115);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
